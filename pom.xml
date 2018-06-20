@@ -11,6 +11,7 @@
     <module>SpringCloud-EurekaServer</module>
     <module>SpringCloud-EurekaClient-UserCenter</module>
     <module>SpringCloud-EurekaClient-OrderCenter</module>
+    <module>SpringCloud-Data-Jpa</module>
   </modules>
   <packaging>pom</packaging>
 
